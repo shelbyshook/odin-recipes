@@ -1,1 +1,3 @@
 # odin-recipes
+
+This is my first HTML project in The Odin Project's curriculum. In this project I will be building a basic recipe website. This website will contain an index page which will display links to a few different recipes. I will be displaying what I've learned so far about basic HTML, such as organizing the website's folders, formatting the written content with paragraphs, creating links to other pages, displaying images, and more. I will also be using what I've learned with git and how to commit with messages.
