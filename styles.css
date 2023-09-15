@@ -1,3 +1,8 @@
+h1 {
+    margin: 0px 100px;
+    margin-bottom: 20px;
+}
+
 h1,
 h2,
 h3,
@@ -10,9 +15,19 @@ h5 {
     font-family: Monaco, "Times New Roman", sans-serif;
 }
 
+.tort-title {
+    font-size: 55px;
+}
+
+.cookie-title {
+    font-size: 75px;
+}
+
 img {
+    display: block;
     width: 500px;
     height: auto;
+    margin: 0 auto;
 }
 
 .cookie-img {
@@ -27,8 +42,15 @@ h5 {
     text-align: left;
 }
 
+h2,
+h3 {
+    margin-left: 10px;
+}
+
 h5 {
     font-size: 25px;
+    margin-left: 65px;
+    margin-bottom: 0;
 }
 
 p,
@@ -37,6 +59,26 @@ ul {
     font-size: 25px;
     font-family: Helvetica, "Times New Roman", sans-serif;
     background-color: rgb(255, 255, 212);
+}
+
+p {
+    margin-left: 20px;
+    margin-right: 65px;
+}
+
+ol,
+ul {
+    margin: 30px 65px;
+    margin-top: 10px;
+}
+
+li {
+    margin-bottom: 10px;
+    border-top: 1px solid black;
+}
+
+.item-1 {
+    border-top: 0px;
 }
 
 .recipe-list {
